@@ -1,0 +1,13 @@
+NAME
+       grep - print lines that match patterns
+
+DESCRIPTION
+       grep searches for PATTERNS in each FILE.
+       The following options are available:
+       -i, --ignore-case
+       -v, --invert-match
+
+EXIT STATUS
+       The grep utility exits with one of the following values:
+       0      One or more lines were selected.
+       1      No lines were selected.
